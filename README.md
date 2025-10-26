@@ -21,6 +21,6 @@ Move the player left and right to catch falling coins before time runs out!
 
 ## 🧠 Tools Used
 - **Godot 4.5**, **GDScript**  
-- Free assets from [Kenney.nl](https://kenney.nl)
+  
 
 ---
